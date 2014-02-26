@@ -4,9 +4,6 @@
 # PyCharm
 .idea/
 
-# Virtualenv
-venv/
-
 *.py[cod]
 
 # C extensions
