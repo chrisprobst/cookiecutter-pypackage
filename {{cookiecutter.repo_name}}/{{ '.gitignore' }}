@@ -1,3 +1,9 @@
+# Mac stuff
+.DS_Store
+
+# Do not upload idea stuff
+.idea/
+
 *.py[cod]
 
 # C extensions

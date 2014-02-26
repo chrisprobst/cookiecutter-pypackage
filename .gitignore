@@ -1,9 +1,6 @@
 # Mac stuff
 .DS_Store
 
-# PyCharm
-.idea/
-
 *.py[cod]
 
 # C extensions
