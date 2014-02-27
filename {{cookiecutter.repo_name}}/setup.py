@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import os
+
 import sys
 
 
@@ -47,9 +48,9 @@ setup(
     # To provide executable scripts, use entry points in preference to the
     # "scripts" keyword. Entry points provide cross-platform support and allow
     # pip to create the appropriate form of executable for the target platform.
-    entry_points={
-        'console_scripts': [
-            'nat_traversal_server=nat_traversal.server:main',
-        ]
-    }
+    # entry_points={
+    #     'console_scripts': [
+    #         'start_script=package.class:main',
+    #     ]
+    # }
 )
